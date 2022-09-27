@@ -37,3 +37,11 @@ Prerequisites
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Figma for Prototyping](https://www.figma.com/)
+**Does our website looks fast**
+>Well we don't say this NextJs ANALYTICS say's it all:
+![WhatsApp Image 2022-09-27 at 09 30 32](https://user-images.githubusercontent.com/71918370/192430597-00f8e445-61a6-4e13-8189-f95f78980925.jpeg)
+**Analytics for mobile**
+![WhatsApp Image 2022-09-27 at 09 32 24](https://user-images.githubusercontent.com/71918370/192430697-2a9b675e-020a-41ea-a2ac-94837573eb52.jpeg)
+**Analytics for desktop**
+This is the combined score of our WEB VITALS experienced by our visitors.
+Important web vitals:**Respndsiveness, Loading time, Visually stable.**
